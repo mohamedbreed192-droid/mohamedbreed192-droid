@@ -1,9 +1,15 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" alt="Mohamed Said — Computer Science student. Software engineering, artificial intelligence, and cloud computing." width="1200">
-</picture>
+<a href="https://github.com/mohamedbreed192-droid#gh-dark-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile-dark.svg">
+    <img src="./assets/header-dark.svg" alt="Mohamed Said — Computer Science student. Software engineering, artificial intelligence, and cloud computing." width="1200">
+  </picture>
+</a>
+<a href="https://github.com/mohamedbreed192-droid#gh-light-mode-only">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
+    <img src="./assets/header-light.svg" alt="Mohamed Said — Computer Science student. Software engineering, artificial intelligence, and cloud computing." width="1200">
+  </picture>
+</a>
 
 # Mohamed Said
 
