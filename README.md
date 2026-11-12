@@ -30,6 +30,14 @@ Technologies I've used:
 
 My academic background includes programming fundamentals, data structures, and algorithms. I'm continuing to develop these skills through my Computer Science studies.
 
+## Selected work
+
+**[IncidentLens](https://github.com/mohamedbreed192-droid/incidentlens)** — A student portfolio prototype for investigating synthetic application logs with cited runbooks, permission-filtered PostgreSQL retrieval, and human review with audit history.
+
+Built with FastAPI and PostgreSQL, with Docker setup, automated tests, and published evaluation results. It works without a model; the optional model-provider adapter is mock-tested.
+
+[Explore the screenshots, setup, and evaluation](https://github.com/mohamedbreed192-droid/incidentlens#readme).
+
 ## Current direction
 
 - **Foundations** — Continue my Computer Science studies and strengthen my understanding of how software works.
