@@ -1,8 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Mohamed Said — Computer Science student</title>
-<desc id="desc">Career direction: software engineering. Interests: artificial intelligence and cloud computing.</desc>
-<rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="#f3f7fc" stroke="#ccdaeb"/>
-<path d="M56 272H1144" stroke="#ccdaeb"/>
-<path d="M56 272h72" stroke="#087b92" stroke-width="3"/>
-<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif"><text x="56" y="42" font-size="13" fill="#455f7c">COMPUTER SCIENCE / ENGINEERING</text><text x="56" y="140" font-size="76" fill="#152943" font-weight="700">Mohamed Said</text><text x="56" y="184" font-size="27" fill="#455f7c">Computer Science student</text><text x="56" y="220" font-size="20" fill="#455f7c">Software engineering · AI · Cloud computing</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Said — Computer Science student</title>
+  <desc id="desc">Software engineering, AI, and cloud computing. A deep navy banner with a subtle binary digit pattern along the right edge.</desc>
+  <defs>
+    <linearGradient id="binary-fade"><stop offset="0" stop-color="white" stop-opacity="0"/><stop offset="1" stop-color="white" stop-opacity=".42"/></linearGradient>
+    <mask id="binary-mask"><rect x="690" width="510" height="360" fill="url(#binary-fade)"/></mask>
+    <clipPath id="frame"><rect x=".5" y=".5" width="1199" height="359" rx="18"/></clipPath>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="359" rx="18" fill="#102139" stroke="#36506a"/>
+  <g clip-path="url(#frame)">
+    <g mask="url(#binary-mask)" fill="#76a8c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2" aria-hidden="true">
+    <text x="720" y="18">1 1 0 1 1 1 1 1 1 0 1 0 0 1 0 0 1 1 0</text>
+    <text x="720" y="47">1 1 1 1 1 0 0 1 0 0 1 0 1 0 1 1 0 1 0</text>
+    <text x="720" y="76">0 0 1 1 1 0 0 1 0 1 1 1 1 0 0 0 1 1 0</text>
+    <text x="720" y="105">1 0 0 1 1 0 1 0 1 0 1 0 0 1 0 1 1 1 0</text>
+    <text x="720" y="134">0 0 1 1 0 1 1 1 1 0 0 1 1 1 1 1 0 1 1</text>
+    <text x="720" y="163">0 0 1 0 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1</text>
+    <text x="720" y="192">0 0 1 1 1 0 1 1 1 1 1 0 0 1 0 1 1 1 0</text>
+    <text x="720" y="221">1 0 0 0 0 1 0 0 1 0 1 0 0 1 0 1 0 0 0</text>
+    <text x="720" y="250">1 1 1 0 0 1 0 1 0 1 0 1 1 1 0 1 1 1 1</text>
+    <text x="720" y="279">1 0 0 1 1 1 0 0 0 1 1 1 0 0 1 0 1 0 0</text>
+    <text x="720" y="308">1 1 0 1 0 1 1 0 1 0 1 1 1 0 1 0 0 1 0</text>
+    <text x="720" y="337">1 1 1 1 0 0 0 1 1 0 0 0 1 1 0 1 1 1 1</text>
+    <text x="720" y="366">0 1 1 1 1 1 0 0 0 1 0 0 0 1 0 0 1 1 0</text>
+    </g>
+    <path d="M1084 0V360M1144 0V360" stroke="#69c7dc" stroke-opacity=".07"/>
+  </g>
+  <path d="M60 51h34" stroke="#67cddd" stroke-width="3"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="60" y="154" fill="#f2f7ff" font-size="84" font-weight="700" letter-spacing="-2">Mohamed Said</text>
+    <text x="60" y="207" fill="#c0d1e3" font-size="31">Computer Science student</text>
+    <text x="60" y="251" fill="#afc8dd" font-size="25">Software engineering · AI · Cloud computing</text>
+  </g>
+  <path d="M60 324H1140" stroke="#36506a"/>
+  <path d="M60 324h64" stroke="#67cddd" stroke-width="2"/>
 </svg>
