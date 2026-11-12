@@ -1,34 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="508" viewBox="0 0 1200 508" role="img" aria-labelledby="title desc">
-<title id="title">Mohamed Said — Computer Science profile</title><desc id="desc">Computer Science student at Canadian University Dubai. Technologies used: Python, C++, Java, JavaScript, HTML, Linux, and Bash scripting. Career interests: software engineering, AI, and cloud computing.</desc>
-<defs><linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f9ff"/><stop offset="1" stop-color="#eaf2ff"/></linearGradient></defs>
-<rect x=".5" y=".5" width="1199" height="507" rx="22" fill="url(#base)" stroke="#c9d9ed"/>
-<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
-<rect x="56" y="44" width="38" height="4" rx="2" fill="#087b92"/>
-<text x="110" y="52" fill="#526d8a" font-size="14" font-weight="600" letter-spacing="2">COMPUTER SCIENCE / ENGINEERING PROFILE</text>
-<text x="51" y="166" fill="#152943" font-size="86" font-weight="750" letter-spacing="-3.4">Mohamed Said</text>
-<text x="56" y="220" fill="#38536f" font-size="29" font-weight="500">Computer Science student</text>
-<text x="57" y="260" fill="#526d8a" font-size="21" font-weight="400">Canadian University Dubai</text>
-<rect x="842" y="42" width="302" height="242" rx="16" fill="#e7f1ff" stroke="#c9d9ed"/>
-<text x="866" y="79" fill="#087b92" font-size="13" font-weight="600" letter-spacing="1.7">CAREER INTERESTS</text>
-<text x="866" y="127" fill="#152943" font-size="29" font-weight="650" letter-spacing="-0.5">Software</text>
-<text x="866" y="164" fill="#152943" font-size="29" font-weight="650" letter-spacing="-0.5">engineering</text>
-<path d="M866 191H1120" stroke="#c9d9ed"/>
-<text x="866" y="224" fill="#38536f" font-size="19" font-weight="400">Artificial intelligence</text>
-<text x="866" y="252" fill="#38536f" font-size="19" font-weight="400">Cloud computing</text>
-<path d="M32 318H1168" stroke="#c9d9ed"/>
-<rect x="32" y="342" width="368" height="134" rx="14" fill="#ffffff" stroke="#c9d9ed"/>
-<g transform="translate(52 361)" fill="none" stroke="#087b92" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m7 5-5 7 5 7m10-14 5 7-5 7M14 3l-4 18"/></g>
-<text x="90" y="378" fill="#526d8a" font-size="12" font-weight="600" letter-spacing="1.4">PROGRAMMING</text>
-<text x="52" y="421" fill="#152943" font-size="21" font-weight="500">Python · C++</text>
-<text x="52" y="450" fill="#38536f" font-size="18" font-weight="400">Java · JavaScript</text>
-<rect x="416" y="342" width="328" height="134" rx="14" fill="#ffffff" stroke="#c9d9ed"/>
-<g transform="translate(436 361)" fill="none" stroke="#087b92" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="2" width="22" height="19" rx="4"/><path d="m6 8 4 4-4 4m8 0h4"/></g>
-<text x="474" y="378" fill="#526d8a" font-size="12" font-weight="600" letter-spacing="1.4">SYSTEMS + WEB</text>
-<text x="436" y="421" fill="#152943" font-size="21" font-weight="500">Linux · Bash scripting</text>
-<text x="436" y="450" fill="#38536f" font-size="18" font-weight="400">HTML</text>
-<rect x="760" y="342" width="408" height="134" rx="14" fill="#ffffff" stroke="#c9d9ed"/>
-<g transform="translate(780 361)" fill="none" stroke="#087b92" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v16m0-16C8 2 4 2 1 3v16c4-1 7 0 11 2 4-2 7-3 11-2V3c-3-1-7-1-11 2Z"/></g>
-<text x="818" y="378" fill="#526d8a" font-size="12" font-weight="600" letter-spacing="1.4">EDUCATION</text>
-<text x="780" y="421" fill="#152943" font-size="21" font-weight="500">Canadian University Dubai</text>
-<text x="780" y="450" fill="#38536f" font-size="18" font-weight="400">Computer Science</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Mohamed Said — Computer Science student</title>
+<desc id="desc">Career direction: software engineering. Interests: artificial intelligence and cloud computing.</desc>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="#f3f7fc" stroke="#ccdaeb"/>
+<path d="M56 272H1144" stroke="#ccdaeb"/>
+<path d="M56 272h72" stroke="#087b92" stroke-width="3"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif"><text x="56" y="42" font-size="13" fill="#455f7c">COMPUTER SCIENCE / ENGINEERING</text><text x="56" y="140" font-size="76" fill="#152943" font-weight="700">Mohamed Said</text><text x="56" y="184" font-size="27" fill="#455f7c">Computer Science student</text><text x="56" y="220" font-size="20" fill="#455f7c">Software engineering · AI · Cloud computing</text></g>
+</svg>
