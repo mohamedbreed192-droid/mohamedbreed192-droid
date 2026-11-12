@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Computer Science student</title>
+  <desc id="desc">A navy banner with cyan accents. Career interests: software engineering, artificial intelligence, and cloud computing.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1b2b"/>
+      <stop offset="1" stop-color="#0a1320"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4bd6e7"/>
+      <stop offset="1" stop-color="#458de3"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="269" rx="18" fill="url(#background)" stroke="#23354b"/>
+  <rect x="44" y="54" width="4" height="162" rx="2" fill="url(#accent)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="76" y="83" fill="#77d8e7" font-size="13" font-weight="600" letter-spacing="2.5">ASPIRING SOFTWARE ENGINEER</text>
+    <text x="73" y="146" fill="#edf4fc" font-size="51" font-weight="650" letter-spacing="-1.8">Computer Science student</text>
+    <text x="76" y="193" fill="#b1bfd2" font-size="20">Software engineering</text>
+    <circle cx="286" cy="187" r="2.5" fill="#4bd6e7"/>
+    <text x="304" y="193" fill="#b1bfd2" font-size="20">AI</text>
+    <circle cx="346" cy="187" r="2.5" fill="#4bd6e7"/>
+    <text x="364" y="193" fill="#b1bfd2" font-size="20">Cloud computing</text>
+  </g>
+  <g fill="none" stroke="#253c55" stroke-width="1">
+    <path d="M954 55H1128M954 95H1128M954 135H1128M954 175H1128M954 215H1128"/>
+    <path d="M968 41V229M1008 41V229M1048 41V229M1088 41V229"/>
+  </g>
+  <path d="M968 175H1008V135H1048V95H1088" fill="none" stroke="#4bb5dd" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#0c1b2b" stroke="#71d9e8" stroke-width="2">
+    <circle cx="968" cy="175" r="5"/>
+    <circle cx="1008" cy="135" r="5"/>
+    <circle cx="1048" cy="95" r="5"/>
+    <circle cx="1088" cy="95" r="5"/>
+  </g>
+</svg>
