@@ -1,15 +1,4 @@
-<a href="https://github.com/mohamedbreed192-droid#gh-dark-mode-only">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/header-mobile-dark.svg">
-    <img src="./assets/header-dark.svg" alt="Mohamed Said — Computer Science student. Software engineering, artificial intelligence, and cloud computing." width="1200">
-  </picture>
-</a>
-<a href="https://github.com/mohamedbreed192-droid#gh-light-mode-only">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
-    <img src="./assets/header-light.svg" alt="Mohamed Said — Computer Science student. Software engineering, artificial intelligence, and cloud computing." width="1200">
-  </picture>
-</a>
+<img src="./assets/matrix-banner.gif" alt="Mohamed Said — Computer Science Student. Software Engineering · AI · Cloud Computing. Animated green binary rain on black." width="1200">
 
 # Mohamed Said
 
