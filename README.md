@@ -1,6 +1,6 @@
 <img src="./assets/matrix-banner.gif" alt="Mohamed Said — Computer Science Student. Software Engineering · AI · Cloud Computing. Animated green binary rain on black." width="1200">
 
-# Mohamed Said
+
 
 **Computer Science student · Building toward a career in software engineering**
 
