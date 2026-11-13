@@ -1,6 +1,6 @@
 <img src="./assets/matrix-banner-space-grotesk-v3.gif" alt="Mohamed Said — Computer Science Student. Software Engineering · AI · Cloud Computing. Animated green binary rain on black." width="1200">
 
-[**3D portfolio source ↗**](docs/index.html) · [Live portfolio](https://mohamedbreed192-droid.github.io/mohamedbreed192-droid/) *(available after GitHub Pages is enabled)*
+[**3D portfolio source ↗**](docs/index.html) · [Live portfolio](https://mohamedbreed192-droid.github.io/mohamedbreed192-droid/)
 
 
 
